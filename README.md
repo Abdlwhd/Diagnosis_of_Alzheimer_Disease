@@ -16,16 +16,16 @@ Dataset features include:
 # Manifold Learning Model Used
 * PCA (Principal Component Analysis)
 # Machine Learning Model Used
-![Comparing Models](imgs/Compare_Models.png)
+![Comparing Models](imgs/Compare_Models.PNG)
 # Comparitive Study Results (Testing)
 After the comparison of different machine learning models. Support Vector Machine displayed highest accuracy for testing.
-![Comparing Test results](imgs/Compare_Test.png)
+![Comparing Test results](imgs/Compare_Test.PNG)
 # Comparitive Study Results (Training)
 After the comparison of different machine learning models. Support Vector Machine displayed highest accuracy for training.
-![Comparing Test results](imgs/Compare_Train.png)
+![Comparing Test results](imgs/Compare_Train.PNG)
 # Confusion Matrix (Support Vector Machine)
-![Confusion SVM](imgs/Confusion_SVM.png)
-![Confusion SVM](imgs/ConfusionP_SVM.png)
+![Confusion SVM](imgs/Confusion_SVM.PNG)
+![Confusion SVM](imgs/ConfusionP_SVM.PNG)
 # Tools used
 * Jupyter Notebook
 * Orange Tool
