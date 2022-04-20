@@ -24,7 +24,7 @@ After the comparison of different machine learning models. Support Vector Machin
 After the comparison of different machine learning models. Support Vector Machine displayed highest accuracy for training.
 ![Comparing Test results](imgs/Compare_Train.PNG)
 # Confusion Matrix (Support Vector Machine)
-![Confusion SVM](imgs/Confusion_SVM.PNG)
+![Confusion SVM](imgs/Confusion_SVM.PNG) </br>
 ![Confusion SVM](imgs/ConfusionP_SVM.PNG)
 # Tools used
 * Jupyter Notebook
